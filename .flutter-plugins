@@ -1,0 +1,20 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/home/diwash/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-3.1.10/
+cloud_firestore_web=/home/diwash/.pub-cache/hosted/pub.dartlang.org/cloud_firestore_web-2.6.10/
+firebase_core=/home/diwash/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.13.1/
+firebase_core_web=/home/diwash/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.6.1/
+firebase_storage=/home/diwash/.pub-cache/hosted/pub.dartlang.org/firebase_storage-10.2.9/
+firebase_storage_web=/home/diwash/.pub-cache/hosted/pub.dartlang.org/firebase_storage_web-3.2.10/
+flutter_plugin_android_lifecycle=/home/diwash/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.5/
+fluttertoast=/home/diwash/.pub-cache/hosted/pub.dartlang.org/fluttertoast-8.0.9/
+image_picker=/home/diwash/.pub-cache/hosted/pub.dartlang.org/image_picker-0.8.4+10/
+image_picker_for_web=/home/diwash/.pub-cache/hosted/pub.dartlang.org/image_picker_for_web-2.1.6/
+path_provider_linux=/home/diwash/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.1.5/
+path_provider_windows=/home/diwash/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.0.5/
+shared_preferences=/home/diwash/.pub-cache/hosted/pub.dartlang.org/shared_preferences-2.0.13/
+shared_preferences_android=/home/diwash/.pub-cache/hosted/pub.dartlang.org/shared_preferences_android-2.0.11/
+shared_preferences_ios=/home/diwash/.pub-cache/hosted/pub.dartlang.org/shared_preferences_ios-2.1.0/
+shared_preferences_linux=/home/diwash/.pub-cache/hosted/pub.dartlang.org/shared_preferences_linux-2.1.0/
+shared_preferences_macos=/home/diwash/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-2.0.3/
+shared_preferences_web=/home/diwash/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-2.0.3/
+shared_preferences_windows=/home/diwash/.pub-cache/hosted/pub.dartlang.org/shared_preferences_windows-2.1.0/
