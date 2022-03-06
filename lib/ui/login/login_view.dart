@@ -1,3 +1,4 @@
+import 'package:architectureboilerplate/ui/dashboard/dashboard_view.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
@@ -10,11 +11,11 @@ class LoginView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return BaseView<LogInViewModel>(builder: (context, model, child) {
-      return body();
+      return body(model, context);
     });
   }
 
-  body() {
+  body(LogInViewModel model, BuildContext context) {
     return Scaffold(
       body: Container(
         width: double.infinity,
@@ -113,7 +114,13 @@ class LoginView extends StatelessWidget {
                         const SizedBox(height: 150),
                         // #login
                         InkWell(
-                          onTap: () {},
+                          onTap: () {
+                            Navigator.push(
+                                context,
+                                CupertinoPageRoute(
+                                    builder: (context) =>
+                                        const DashboardView()));
+                          },
                           child: Container(
                             height: 60,
                             margin: const EdgeInsets.symmetric(horizontal: 50),

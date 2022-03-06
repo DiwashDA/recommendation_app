@@ -1,3 +1,4 @@
+import 'package:architectureboilerplate/ui/dashboard/dashboard_view_model.dart';
 import 'package:get_it/get_it.dart';
 
 import '../base/base-view_model.dart';
@@ -21,6 +22,7 @@ Future<void> setUpInjector() async {
   locator.registerFactory(() => BaseViewModel());
   locator.registerFactory(() => DatastoreServices());
   locator.registerFactory(() => LogInViewModel());
+  locator.registerFactory(() => DashboardViewModel());
   // locator.registerFactory(() => AmplifyServices());
 
   //
